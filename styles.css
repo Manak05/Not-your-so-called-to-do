@@ -11,6 +11,7 @@ nav{
     width:70px;
     display:flex;
     flex-direction:column;
+    justify-content: space-between;
 }
 
 
@@ -33,6 +34,9 @@ nav{
 .icon svg {
   width: 22px;
   height: 22px;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 
